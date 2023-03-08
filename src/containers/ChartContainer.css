@@ -1,0 +1,9 @@
+.top-20 {
+    background-image: linear-gradient(rgb(0, 8, 100), rgb(255, 53, 255), rgb(0, 8, 100));
+    color: white;
+}
+
+h1 {
+    padding: 30px;
+    margin: 0;
+}

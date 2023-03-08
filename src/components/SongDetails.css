@@ -1,0 +1,23 @@
+.song-details {
+    display: flex;
+    text-align: left;
+    padding: 20px;
+}
+
+.position-image {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-artist {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.position-image h1 {
+    text-align: center;
+    margin: auto;
+    padding-right: 20px;
+}
